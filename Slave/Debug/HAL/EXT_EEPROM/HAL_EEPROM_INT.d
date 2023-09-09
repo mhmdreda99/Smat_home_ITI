@@ -1,0 +1,20 @@
+HAL/EXT_EEPROM/HAL_EEPROM_INT.o HAL/EXT_EEPROM/HAL_EEPROM_INT.o:  \
+ ../HAL/EXT_EEPROM/HAL_EEPROM_INT.c \
+  ../HAL/EXT_EEPROM/../../MCAL/std_types.h \
+  ../HAL/EXT_EEPROM/../../MCAL/Std_Library.h \
+  ../HAL/EXT_EEPROM/../../MCAL/macros.h \
+  ../HAL/EXT_EEPROM/../../MCAL/I2C/MCAL_I2C_REG.h \
+  ../HAL/EXT_EEPROM/../../MCAL/I2C/MCAL_I2C_INT.h \
+  ../HAL/EXT_EEPROM/HAL_EEPROM_INT.h
+
+../HAL/EXT_EEPROM/../../MCAL/std_types.h:
+
+../HAL/EXT_EEPROM/../../MCAL/Std_Library.h:
+
+../HAL/EXT_EEPROM/../../MCAL/macros.h:
+
+../HAL/EXT_EEPROM/../../MCAL/I2C/MCAL_I2C_REG.h:
+
+../HAL/EXT_EEPROM/../../MCAL/I2C/MCAL_I2C_INT.h:
+
+../HAL/EXT_EEPROM/HAL_EEPROM_INT.h:

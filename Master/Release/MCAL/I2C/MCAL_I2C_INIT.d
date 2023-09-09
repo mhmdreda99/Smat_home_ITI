@@ -1,0 +1,22 @@
+MCAL/I2C/MCAL_I2C_INIT.o MCAL/I2C/MCAL_I2C_INIT.o:  \
+ ../MCAL/I2C/MCAL_I2C_INIT.c ../MCAL/I2C/../std_types.h \
+  ../MCAL/I2C/../Std_Library.h ../MCAL/I2C/../macros.h \
+  ../MCAL/I2C/../GLOBAL_INTERRUPT/GLOBAL_INT_REG.h \
+  ../MCAL/I2C/MCAL_I2C_PRIVATE.h ../MCAL/I2C/MCAL_I2C_CNFG.h \
+  ../MCAL/I2C/MCAL_I2C_REG.h ../MCAL/I2C/MCAL_I2C_INT.h
+
+../MCAL/I2C/../std_types.h:
+
+../MCAL/I2C/../Std_Library.h:
+
+../MCAL/I2C/../macros.h:
+
+../MCAL/I2C/../GLOBAL_INTERRUPT/GLOBAL_INT_REG.h:
+
+../MCAL/I2C/MCAL_I2C_PRIVATE.h:
+
+../MCAL/I2C/MCAL_I2C_CNFG.h:
+
+../MCAL/I2C/MCAL_I2C_REG.h:
+
+../MCAL/I2C/MCAL_I2C_INT.h:
