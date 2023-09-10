@@ -56,6 +56,9 @@ u8 temp;
 u8 Light_val;
 
 /**********FUNCTION DECLERATION*********/
+/**
+ * @brief the main application
+*/
 int main()
 {
 	PORT_DIRECTION_INIT();
