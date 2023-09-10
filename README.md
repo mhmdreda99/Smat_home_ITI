@@ -1,4 +1,4 @@
-# Smart Home Project Readme
+# Smart Home RTOS Based Project
 ![Cover](https://github.com/mhmdreda99/Smat_home_ITI/blob/master/cover.PNG)
 ## Overview
 
