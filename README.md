@@ -1,5 +1,5 @@
 # Smart Home Project Readme
-![Cover](https://github.com/mhmdreda99/Smat_home_ITI/Cover)
+![Cover](https://github.com/mhmdreda99/Smat_home_ITI/blob/master/cover.PNG)
 ## Overview
 
 This Smart Home Project is designed to create a versatile home automation system using Atmega32 microcontrollers and various components. The system is capable of controlling temperature, lighting, door access, and more, all via a smartphone interface. The project consists of two main microcontrollers: MCU1 (Master) and MCU2 (Slave). This README provides an overview of the project components and its functionality.
